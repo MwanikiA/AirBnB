@@ -1,0 +1,9 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+ body{ background-color: rgb(58,80,94);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+}
